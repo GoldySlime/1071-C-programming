@@ -12,3 +12,5 @@ Week 2
 Week 3
 * leapwhile.cpp
 * secondswhile.cpp
+* BMI.cpp
+* sum.cpp
