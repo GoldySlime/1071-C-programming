@@ -14,3 +14,7 @@ Week 3
 * secondswhile.cpp
 * BMI.cpp
 * sum.cpp
+
+Week 4
+* menu.cpp
+* sum.cpp
