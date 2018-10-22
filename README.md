@@ -26,3 +26,7 @@
 
 ## Week 6
 * daysPassed.cpp
+
+## Week 7
+* sum.cpp
+* sumodd.cpp
