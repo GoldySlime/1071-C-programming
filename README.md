@@ -1,12 +1,12 @@
 # 1071-C-programming
 
 ## Week 1
-* equations.cpp[enter link description here](https://github.com/GoldySlime/1071-C-programming/blob/master/w01/equations.cpp)
-* tempconvert.cpp
-* wellcome.cpp
+* [Equations](https://github.com/GoldySlime/1071-C-programming/blob/master/w01/equations.cpp)
+* [Temperature Converter](https://github.com/GoldySlime/1071-C-programming/blob/master/w01/tempconverter.cpp)
+* [Welcome](https://github.com/GoldySlime/1071-C-programming/blob/master/w01/wellcome.cpp)
 
 ## Week 2
-* leap.cpp
+* [Leap year](https://github.com/GoldySlime/1071-C-programming/blob/master/w02/leap.cpp)
 * seconds.cpp
 
 ## Week 3
@@ -33,5 +33,5 @@
 * fib.cpp
 * gcd.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDcyNDM4OF19
+eyJoaXN0b3J5IjpbLTc3NTkwMzk5NV19
 -->
