@@ -30,3 +30,5 @@
 ## Week 7
 * sum.cpp
 * sumodd.cpp
+* fib.cpp
+* gcd.cpp
