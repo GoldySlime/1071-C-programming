@@ -12,20 +12,20 @@
 ## Week 3
 * [Leap Year While](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/leapwhile.cpp)
 * [Seconds Converter While](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/secondswhile.cpp)
-* BMI.cpp[BMI Calculator](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/BMI.cpp)
-* [Sum](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/sum.cpp)
+* [BMI Calculator](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/BMI.cpp)
+* [Sum Calc](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/sum.cpp)
 
 ## Week 4
-* menu.cpp
-* sum2.cpp
-* menu2.cpp
+* [Menu 1](https://github.com/GoldySlime/1071-C-programming/blob/master/w04/menu.cpp)
+* [Sum 2 Calc](https://github.com/GoldySlime/1071-C-programming/blob/master/w04/sum2.cpp)
+* [Menu 2](https://github.com/GoldySlime/1071-C-programming/blob/master/w04/menu2.cpp)
 
 ## Week 5
-* menu3.cpp
-* test1.cpp
+* [Menu 3](https://github.com/GoldySlime/1071-C-programming/blob/master/w05/menu3.cpp)
+* [Test 1](https://github.com/GoldySlime/1071-C-programming/blob/master/w05/test1.cpp)
 
 ## Week 6
-* daysPassed.cpp
+* daysPassed.cpp[Yea](https://github.com/GoldySlime/1071-C-programming/blob/master/w06/daysPassed.cpp)
 
 ## Week 7
 * sum.cpp
@@ -33,5 +33,5 @@
 * fib.cpp
 * gcd.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzc2Mjk5MiwtNzc1OTAzOTk1XX0=
+eyJoaXN0b3J5IjpbLTIxMzc5MDA5ODUsLTc3NTkwMzk5NV19
 -->
