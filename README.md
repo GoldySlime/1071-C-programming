@@ -1,7 +1,7 @@
 # 1071-C-programming
 
 ## Week 1
-* equations.cpp
+* equations.cpp[enter link description here](https://github.com/GoldySlime/1071-C-programming/blob/master/w01/equations.cpp)
 * tempconvert.cpp
 * wellcome.cpp
 
@@ -32,3 +32,6 @@
 * sumodd.cpp
 * fib.cpp
 * gcd.cpp
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2MDcyNDM4OF19
+-->
