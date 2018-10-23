@@ -25,13 +25,13 @@
 * [Test 1](https://github.com/GoldySlime/1071-C-programming/blob/master/w05/test1.cpp)
 
 ## Week 6
-* daysPassed.cpp[Yea](https://github.com/GoldySlime/1071-C-programming/blob/master/w06/daysPassed.cpp)
+* [Days Passed](https://github.com/GoldySlime/1071-C-programming/blob/master/w06/daysPassed.cpp)
 
 ## Week 7
-* sum.cpp
-* sumodd.cpp
-* fib.cpp
-* gcd.cpp
+* [Sum Function](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/sum.cpp)
+* [Sum Odd Function](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/sumodd.cpp)
+* [Fibonacci](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/fib.cpp)
+* [Greatest Common Divisor](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/gcd.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc5MDA5ODUsLTc3NTkwMzk5NV19
+eyJoaXN0b3J5IjpbMjA3NTA2NTg2LC03NzU5MDM5OTVdfQ==
 -->
