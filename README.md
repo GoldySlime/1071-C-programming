@@ -7,13 +7,13 @@
 
 ## Week 2
 * [Leap year](https://github.com/GoldySlime/1071-C-programming/blob/master/w02/leap.cpp)
-* seconds.cpp
+* [Seconds Converter](https://github.com/GoldySlime/1071-C-programming/blob/master/w02/seconds.cpp)
 
 ## Week 3
-* leapwhile.cpp
-* secondswhile.cpp
-* BMI.cpp
-* sum.cpp
+* [Leap Year While](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/leapwhile.cpp)
+* [Seconds Converter While](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/secondswhile.cpp)
+* BMI.cpp[BMI Calculator](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/BMI.cpp)
+* [Sum](https://github.com/GoldySlime/1071-C-programming/blob/master/w03/sum.cpp)
 
 ## Week 4
 * menu.cpp
@@ -33,5 +33,5 @@
 * fib.cpp
 * gcd.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTkwMzk5NV19
+eyJoaXN0b3J5IjpbLTI2Nzc2Mjk5MiwtNzc1OTAzOTk1XX0=
 -->
