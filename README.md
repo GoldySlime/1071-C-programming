@@ -33,6 +33,10 @@
 * [Fibonacci](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/fib.cpp)
 * [Greatest Common Divisor](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/gcd.cpp)
 * [Hawaii Tower](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/tower.cpp)
+
+## Week 8
+* [Magic Diagonal & Magic Knight](https://github.com/GoldySlime/1071-C-programming/blob/master/w08/magic.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTA2NTg2LC03NzU5MDM5OTVdfQ==
+eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
+AzOTk1XX0=
 -->
