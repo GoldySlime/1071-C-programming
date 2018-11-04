@@ -74,27 +74,27 @@ void tower6(int n, char aux, char to, char from)
 
 int main()
 {
-    printf("tower1(n,from,aux,to)");
+    printf("tower1(n,from,aux,to)\n");
     tower1(3,'A','B','C');
     printf("\n\n");
 
-    printf("tower2(n,to,aux,from)");
+    printf("tower2(n,to,aux,from)\n");
     tower2(3,'A','B','C');
     printf("\n\n");
 
-    printf("tower3(n,from,to,aux)");
+    printf("tower3(n,from,to,aux)\n");
     tower3(3,'A','B','C');
     printf("\n\n");
 
-    printf("tower4(n,to,from,aux)");
+    printf("tower4(n,to,from,aux)\n");
     tower4(3,'A','B','C');
     printf("\n\n");
 
-    printf("tower5(n,aux,from,to)");
+    printf("tower5(n,aux,from,to)\n");
     tower5(3,'A','B','C');
     printf("\n\n");
 
-    printf("tower6(n,aux,to,from)");
+    printf("tower6(n,aux,to,from)\n");
     tower6(3,'A','B','C');
     printf("\n\n");
 }
