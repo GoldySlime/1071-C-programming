@@ -26,6 +26,7 @@
 
 ## Week 6
 * [Days Passed](https://github.com/GoldySlime/1071-C-programming/blob/master/w06/daysPassed.cpp)
+* [Sort](https://github.com/GoldySlime/1071-C-programming/blob/master/w06/sort.cpp)
 
 ## Week 7
 * [Sum Function](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/sum.cpp)
