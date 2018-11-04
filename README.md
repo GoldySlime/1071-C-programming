@@ -33,7 +33,7 @@
 * [Sum Odd Function](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/sumodd.cpp)
 * [Fibonacci](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/fib.cpp)
 * [Greatest Common Divisor](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/gcd.cpp)
-* [Hawaii Tower](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/tower.cpp)
+* [Hanoi Tower](https://github.com/GoldySlime/1071-C-programming/blob/master/w07/tower.cpp)
 
 ## Week 8
 * [Magic Diagonal & Magic Knight](https://github.com/GoldySlime/1071-C-programming/blob/master/w08/magic.cpp)
