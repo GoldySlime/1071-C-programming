@@ -37,6 +37,18 @@
 
 ## Week 8
 * [Magic Diagonal & Magic Knight](https://github.com/GoldySlime/1071-C-programming/blob/master/w08/magic.cpp)
+
+## Week 9
+* [Dates](https://github.com/GoldySlime/1071-C-programming/blob/master/w09/dates.cpp)
+* [Lottos](https://github.com/GoldySlime/1071-C-programming/blob/master/w09/lottos.cpp)
+
+
+## Week 11
+* [Knight Tour](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttour.cpp)
+
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
 AzOTk1XX0=
