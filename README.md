@@ -47,8 +47,8 @@
 
 ## Week 11
 * [Knight Tour](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttour.cpp)
-* [Knight Tour](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttoursmart.cpp)
-* [Knight Tour](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttourcomp.cpp)
+* [Knight Tour Smart](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttoursmart.cpp)
+* [Knight Tour Completed](https://github.com/GoldySlime/1071-C-programming/blob/master/w11/knighttourcomp.cpp)
 
 
 <!--stackedit_data:
