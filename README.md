@@ -52,6 +52,10 @@
 
 ## Week 12
 * [Lotto with Pointer](https://github.com/GoldySlime/1071-C-programming/blob/master/w12/lottopointer.cpp)
+* [Lotto with Winner](https://github.com/GoldySlime/1071-C-programming/blob/master/w12/lottowinner.cpp)
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
 AzOTk1XX0=
