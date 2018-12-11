@@ -58,6 +58,9 @@
 * [Swap Pointer](https://github.com/GoldySlime/1071-C-programming/blob/master/w13/swap.cpp)
 * [Lotto with Linked List](https://github.com/GoldySlime/1071-C-programming/blob/master/w13/lottolinkedlist.cpp)
 
+## Week 14
+* [Demo String](https://github.com/GoldySlime/1071-C-programming/blob/master/w14/str_demo.cpp)
+* [Class with Linked List](https://github.com/GoldySlime/1071-C-programming/blob/master/w14/linkedlistclass.cpp)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
 AzOTk1XX0=
