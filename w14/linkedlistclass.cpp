@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <string.h>
 
 struct Date
 {
@@ -39,6 +39,7 @@ void insert( ListNode **sPtr, ListNode listnode)
     ListNodePtr currentPtr; /* pointer to current node in list */
 
     newPtr = (ListNode *) malloc( sizeof( ListNode ) ); /* create node */
+    newPtr->name = (char *) malloc(sizeof(char) );
 
     if ( newPtr != NULL )   /* is space available */
     {
@@ -46,7 +47,7 @@ void insert( ListNode **sPtr, ListNode listnode)
         newPtr->date.year = listnode.date.year; /* place value in node */
         newPtr->date.month= listnode.date.month; /* place value in node */
         newPtr->date.day = listnode.date.day; /* place value in node */
-        newPtr->name = listnode.name; /* place value in node */
+        strcpy(newPtr->name, listnode.name);
         newPtr->nextPtr = NULL; /* node does not link to another node */
 
         previousPtr = NULL;
@@ -172,7 +173,7 @@ int main( void )
             printf( "Enter ID: ");
             scanf( "%d", &listnode.id );
             printf( "Enter the Birth Date: ");
-            scanf( "%d %d %d", &listnode.date.year , &listnode.date.month , &listnode.date.day );
+            scanf( "%d %d %d", &listnode.date.year, &listnode.date.month, &listnode.date.day );
             fflush(stdin);
             printf("Enter Name: ");
             gets(listnode.name);
