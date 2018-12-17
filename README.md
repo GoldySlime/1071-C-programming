@@ -61,6 +61,10 @@
 ## Week 14
 * [Demo String](https://github.com/GoldySlime/1071-C-programming/blob/master/w14/str_demo.cpp)
 * [Class with Linked List](https://github.com/GoldySlime/1071-C-programming/blob/master/w14/linkedlistclass.cpp)
+
+## Week 15
+* [List Lotto](https://github.com/GoldySlime/1071-C-programming/blob/master/w15/list_lotto.cpp)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
 AzOTk1XX0=
