@@ -64,7 +64,7 @@
 
 ## Week 15
 * [List Lotto](https://github.com/GoldySlime/1071-C-programming/blob/master/w15/list_lotto.cpp)
-
+* [Lotto File Text](https://github.com/GoldySlime/1071-C-programming/blob/master/w15/lotto_file.cpp)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcwMzA1ODczLDIwNzUwNjU4NiwtNzc1OT
 AzOTk1XX0=
